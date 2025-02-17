@@ -1,6 +1,10 @@
-title: Minimal theme
+title: Adel wael ahmed
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description: Data Scientist
+
+show_downloads: False
+
+#google_analytics:
+
 theme: jekyll-theme-minimal
