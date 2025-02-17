@@ -1,9 +1,9 @@
 # adelwael.github.io 
 
-#data scientist 
+# data scientist 
 
 
-##Summary   
+## Summary   
 I am a computer science student with a passion for data science. I enjoy working with data to find 
 patterns, solve problems, and create valuable insights. My goal is to offer the most suitable solutions that reflect project specifics and clients' needs.
 
@@ -23,7 +23,7 @@ Soft Skills
 • Time Management: Efficient in managing multiple tasks and meeting deadlines 
 
 
-###Projects   
+### Projects   
 NBA Data Analysis Project 
 • Collected, cleaned, and preprocessed NBA player statistics and game data using Python (Pandas, 
 NumPy) and SQL. 
@@ -37,14 +37,14 @@ by 30% and enabling faster analysis for strategic decision-making.
 Tools: Python, SQL, Matplotlib, Seaborn, Plotly, Jupyter Notebook. 
 
 
-###Education   
+### Education   
 Modern University for Technology and Information - MTI University   
 • Bachelor of Computer Science (expected graduation : July 2025) . 
 Relevant Coursework:  
 • Data Structures, Algorithms, Database Management, Object-oriented Programming   
 
 
-##Experience    
+## Experience    
 NBA Data Analysis Project 
 • Analyzed NBA player and game data using Python (Pandas, NumPy) and SQL for data cleaning 
 and preprocessing. 
