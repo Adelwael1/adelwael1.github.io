@@ -56,9 +56,10 @@ NBA Data Analysis Project
 
 
 Core Programming: Data Structures, Algorithms, Object-Oriented Programming (OOP)
+
 Mathematics: Linear Algebra, Discrete Mathematics, Calculus
+
 Systems: Operating Systems, Database Management
-Experience
 
 
 
