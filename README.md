@@ -12,7 +12,7 @@ I enjoy working with data to find patterns, solve problems, and create valuable 
 
 My goal is to offer the most suitable solutions that reflect project specifics and clients' needs.
 
-Website: https://adelwael.github.io/
+Website: https://adelwael1.github.io/
 
 
 
