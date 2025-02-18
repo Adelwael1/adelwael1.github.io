@@ -18,11 +18,12 @@ Website: https://adelwael1.github.io/
 
 ## Certificates
 Data science : Digital Egypt Pioneers Initiative - DEPI -2025
+
 ## Projects
 
 
 
-NBA Data Analysis Project 
+### NBA Data Analysis Project 
 
 • Collected, cleaned, and preprocessed NBA player statistics and game data using Python (Pandas, NumPy) and SQL. 
 
@@ -33,6 +34,23 @@ NBA Data Analysis Project
 • Optimized data querying processes by developing SQL scripts, improving retrieval times by 30% and enabling faster analysis for strategic decision-making. 
 
 • Delivered actionable insights to optimize fantasy league strategies and team performance. Tools: Python, SQL, Matplotlib, Seaborn, Plotly, Jupyter Notebook.
+
+### Pokémon Dataset Analysis
+  | **Tools:** Python, Pandas, Matplotlib, Seaborn  
+
+- Analyzed a **Pokémon dataset** to extract insights on types, stats, generation trends, and legendary status.
+  
+- Performed **data cleaning** by handling missing values and transforming data for better analysis.
+  
+- Conducted **exploratory data analysis (EDA)** to visualize distributions and correlations.
+  
+- Created **data visualizations** using Matplotlib and Seaborn to highlight key patterns.
+  
+- Identified statistical trends in **Pokémon attributes and competitive strengths**.
+
+   
+
+
 
 
 ## Technical Skills
