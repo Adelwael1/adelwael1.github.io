@@ -93,6 +93,9 @@ Bachelor of Information and Communication Technology (Major: computer science)
 October 2021 – May 2025
 
 ## Contact   
+
+• Linked-in : adel wael
+
 • Email: adelwael392@gmail.com   
 
 • Phone : 01092148356   
